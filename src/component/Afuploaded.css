@@ -1,0 +1,65 @@
+.container {
+  height: 48vw;
+  width: 86vw;
+  /* background-color: aqua; */
+  align-items: center;
+  justify-content: center;
+  margin-left: 14vw;
+  margin-top: -30vw;
+  border: 1px solid blue;
+  background-color: white;
+  /* text-align: center; */
+}
+/* .navbari{
+    display: flex;
+  }
+  .navbari li{
+    display: flex;
+  } */
+.topnav {
+  background-color: #d8d7d7;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #121111;
+
+  text-align: center;
+  padding: 10px 80px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.ttt {
+  display: flex;
+  align-items: center;
+  padding: 0px 60px;
+  align-items: space-between;
+  background-color: rgb(242, 241, 241);
+  border: 0.5 solid black;
+  border-radius: 15px;
+  margin-top: 8px;
+}
+.selet {
+  margin-right: 3vw;
+  margin-left: 8vw;
+}
+.pre {
+  margin-left: 9vw;
+}
+.lin {
+  margin-left: 6vw;
+}
+.container1 {
+  margin-left: 8vw;
+}
+.hh{
+    margin-left: 50vw;
+    margin-top: -2.5vw;
+}
+.ll{
+    margin-left: 3vw;
+    color: white;
+}

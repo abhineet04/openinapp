@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+/* body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(249, 245, 245);
+    font-family: "lato", sans-serif;
+} */
+.form {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    height: 118vh;
+    background-color: rgb(238, 238, 242);
+    margin-left: 50vw;
+    margin-top: -10vw;
+    width: 50%;
+    
+}
+.pp{
+    position: absolute;
+    margin-top: 22vw;
+    color: white;
+   font-weight:10vw;
+   margin-left: 12vw;
+
+}
+.pp h1{
+    /* position: absolute; */
+    /* margin-top: 22vw; */
+    /* color: white; */
+   font-size: 5vw;
+
+}
+.for{
+    background-color: white;
+  width: 400px;
+  border-radius: 8px;
+  padding: 20px 40px;
+  box-shadow: 0 10px 25px rgba(127, 124, 174, 0.2);
+}
+.inputContainer {
+    position: relative;
+    height: 45px;
+    width: 90%;
+    margin-bottom: 17px;
+    border-radius: 15px;
+}
+
+#username{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    border: 1px solid #DADCE0;
+    border-radius: 7px;
+    font-size: 16px;
+    padding: 0 20px;
+    outline: none;
+    background: none;
+    z-index: 1;
+}
+.title{
+    font-size: 30px;
+    margin-bottom: 50px;
+
+}
+/* .but{
+    font-size: 20px;
+    background-color: blue;
+} */
+.butt{
+    background-color:rgb(130, 130, 247);
+    height: 3vw;
+    width: 400px;
+    border-radius: 10px;
+    margin-top: -5vw;
+    cursor: pointer;
+
+}
+.tttt{
+    background-color:rgba(247, 249, 246, 0.664);
+    height: 2vw;
+    width: 8vw;
+    /* border-radius: 10px; */
+    margin-top: -5vw;
+    cursor: pointer;
+
+}
+
+
+  
